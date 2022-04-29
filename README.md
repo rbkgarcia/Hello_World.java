@@ -1,7 +1,7 @@
 # Overview
 
-  {This is my first program in Java. I'm trying to accomplish an understanding of this language to develop myself as a  
-  Web developer. Learning Java is a goal I have set to further improve my abilities and learning.}  
+  This is my first program in Java. I'm trying to accomplish an understanding of this language to develop myself as a  
+  Web developer. Learning Java is a goal I have set to further improve my abilities and learning.  
   
   This program prints "Hello World"  
 
