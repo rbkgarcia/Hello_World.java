@@ -1,15 +1,11 @@
 # Overview
 
-  This is my first program in Java. I'm trying to accomplish  
-  an understanding of this language to develop myself as a  
-  Web developer. Learning Java is a goal I have set to  
-  further improve my abilities and learning.  
+  This is my first program in Java. I'm trying to accomplish an understanding of this language to develop myself as a  
+  Web developer. Learning Java is a goal I have set to further improve my abilities and learning.  
   
   This program prints "Hello World"  
 
-  The purpose of creating this software was to practice  
-  creating a Java class with the main method used to allow  
-  the instruction to print the message.  
+  The purpose of creating this software was to practice creating a Java class with the main method used to allow the instruction to print the message.  
   
 [Software Demo Video](https://www.youtube.com/watch?v=lR_UR1CezU0&t=26s).
   
